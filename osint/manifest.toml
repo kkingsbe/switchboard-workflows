@@ -8,4 +8,4 @@ name = "osint-checker"
 schedule = "*/30 * * * *"
 readonly = false
 timeout = "30m"
-prompt_file = "./prompts/PROMPT.md"
+prompt_file = "./switchboard/workflows/osint/prompts/PROMPT.md"
