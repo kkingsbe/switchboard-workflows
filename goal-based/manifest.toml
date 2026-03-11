@@ -2,6 +2,7 @@
 name = "goal-based"                        # Required: workflow name (matches directory)
 version = "1.0.0"                          # Optional: version string
 description = "Goal-based autonomous workflow with planner/executor/verifier loop"
+timezone = "America/New_York"
 
 [[agent]]
 name = "goal-planner"
